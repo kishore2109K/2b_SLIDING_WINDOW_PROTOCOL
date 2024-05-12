@@ -8,7 +8,7 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-### NAME: KISHORE
+### NAME: KISHORE K
 ### REG.NO:212223040101
 ### Server
 ```
